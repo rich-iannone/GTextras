@@ -1,6 +1,15 @@
 # GTextras
 
-Extra functionality for the Great Tables library
+_Extra functionality for the Great Tables library_
+
+[![License](https://img.shields.io/github/license/rich-iannone/GTextras)](https://img.shields.io/github/license/rich-iannone/GTextras)
+
+[![CI Build](https://github.com/rich-iannone/GTextras/actions/workflows/ci-tests.yaml/badge.svg)](https://github.com/rich-iannone/GTextras/actions/workflows/ci-tests.yaml)
+[![Codecov branch](https://img.shields.io/codecov/c/github/rich-iannone/GTextras/main.svg)](https://codecov.io/gh/rich-iannone/GTextras)
+[![Repo Status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+[![Contributors](https://img.shields.io/github/contributors/rich-iannone/GTextras)](https://github.com/rich-iannone/GTextras/graphs/contributors)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
 
 GTextras is a collection of functions that extend the functionality of the Great Tables library. The
 functions in GTextras are designed to be used in conjunction with those in the Great Tables library.
