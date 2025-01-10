@@ -1,0 +1,8 @@
+[run]
+branch = True
+source = GTextras
+
+[report]
+omit =
+    tests/*
+    .venv/*
