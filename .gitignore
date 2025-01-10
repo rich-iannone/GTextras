@@ -169,3 +169,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Playground Scripts and temporary outputs
+.DS_Store
+playground*.py
+playground*.qmd
+playground.html
+playground_files
+
+/.luarc.json
+
+docs/_site
+docs/.quarto
+docs/reference
+docs/objects.json
+
