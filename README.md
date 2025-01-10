@@ -1,5 +1,7 @@
 # GTextras
 
+<div align="center">
+
 _Extra functionality for the Great Tables library_
 
 [![License](https://img.shields.io/github/license/rich-iannone/GTextras)](https://img.shields.io/github/license/rich-iannone/GTextras)
@@ -10,6 +12,8 @@ _Extra functionality for the Great Tables library_
 
 [![Contributors](https://img.shields.io/github/contributors/rich-iannone/GTextras)](https://github.com/rich-iannone/GTextras/graphs/contributors)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
+
+</div>
 
 GTextras is a collection of functions that extend the functionality of the Great Tables library. The
 functions in GTextras are designed to be used in conjunction with those in the Great Tables library.
