@@ -1,7 +1,7 @@
 .PHONY: check
 
 test:
-	pytest --cov=gtextras --cov-report=xml
+	pytest --cov=GTextras --cov-report=xml
 
 test-update:
 	pytest --snapshot-update
@@ -10,10 +10,10 @@ test-coverage:
 	pytest --cov=gtextras --cov-report=term
 
 check:
-	pyright --pythonversion 3.8 gtextras
-	pyright --pythonversion 3.9 gtextras
-	pyright --pythonversion 3.10 gtextras
-	pyright --pythonversion 3.11 gtextras
+	pyright --pythonversion 3.8 GTextras
+	pyright --pythonversion 3.9 GTextras
+	pyright --pythonversion 3.10 GTextras
+	pyright --pythonversion 3.11 GTextras
 
 clean: clean-build clean-pyc clean-test ## remove all build, test, coverage and Python artifacts
 
@@ -47,4 +47,4 @@ docs-build:
 	  && quarto render
 
 install: dist ## install the package to the active Python's site-packages
-	python3 -m pip install --force-reinstall dist/gtextras*.whl
+	python3 -m pip install --force-reinstall dist/GTextras*.whl
