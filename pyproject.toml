@@ -5,10 +5,10 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools_scm]
 
 [tool.setuptools.packages.find]
-include = ["gtextras"]
+include = ["GTextras"]
 
 [project]
-name = "gtextras"
+name = "GTextras"
 description = "Extra functionality for the Great Tables library"
 readme = "README.md"
 keywords = ["tables", "extra", "functions", "HTML"]
@@ -92,7 +92,7 @@ max-line-length = 100
 
 [tool.pytest.ini_options]
 minversion = "6.0"
-addopts = "-ra --cov=gtextras"
+addopts = "-ra --cov=GTextras"
 asyncio_mode = "strict"
 asyncio_default_fixture_loop_scope = "function"
 testpaths = [

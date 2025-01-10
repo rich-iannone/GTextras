@@ -7,7 +7,7 @@ test-update:
 	pytest --snapshot-update
 
 test-coverage:
-	pytest --cov=gtextras --cov-report=term
+	pytest --cov=GTextras --cov-report=term
 
 check:
 	pyright --pythonversion 3.8 GTextras
