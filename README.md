@@ -15,28 +15,35 @@ _Extra functionality for the Great Tables library_
 
 </div>
 
-GTextras is a collection of functions that extend the functionality of the Great Tables library. The
-functions in GTextras are designed to be used in conjunction with those in the Great Tables library.
+GTextras is a collection of functions that extend the functionality of the Great Tables library.
+HTML tables can be given all sorts of extra features, like static plots, themes, interesting methods
+for combining images and text, and different ways to structure tables.
 
 ## Installation
 
-You can install GTextras from GitHub with:
+While not yet available on PyPI, you can install GTextras from GitHub with:
 
 ```python
 pip install git+https://github.com/rich-iannone/GTextras.git
 ```
 
-If you encounter a bug, have usage questions, or want to share ideas to make this package better, please feel free to file an [issue](https://github.com/rich-iannone/GTextras/issues).
+If you encounter a bug, have usage questions, or want to share ideas to make this package better,
+please feel free to file an [issue](https://github.com/rich-iannone/GTextras/issues).
 
 ## Code of Conduct
 
-Please note that the GTextras project is released with a [contributor code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).<br>By participating in this project you agree to abide by its terms.
+Please note that the GTextras project is released with a [contributor code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+<br>By participating in this project you agree to abide by its terms.
 
 ## Contributing to GTextras
 
-There are many ways to contribute to the ongoing development of GTextras. Some contributions can be simple (like fixing typos, improving documentation, filing issues for feature requests or problems, etc.) and others might take more time and care (like answering questions and submitting PRs with code changes). Just know that anything you can do to help would be very much appreciated!
+There are many ways to contribute to the ongoing development of GTextras. Some contributions can be
+simple (like fixing typos, improving documentation, filing issues for feature requests or problems,
+etc.) and others might take more time and care (like answering questions and submitting PRs with
+code changes). Just know that anything you can do to help would be very much appreciated!
 
-Please read over the [contributing guidelines](https://github.com/rich-iannone/GTextras/blob/main/CONTRIBUTING.md) for information on how to get started.
+Please read over the [contributing guidelines](https://github.com/rich-iannone/GTextras/blob/main/CONTRIBUTING.md)
+for information on how to get started.
 
 ## 📄 License
 
